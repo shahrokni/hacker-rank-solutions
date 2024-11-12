@@ -1,5 +1,6 @@
 /* https://www.hackerrank.com/challenges/grading */
 /* Difficulty Easy */
+/* Next multiple of any number? */
 #include <stdlib.h>
 
 int *gradingStudents(int grades_count, int *grades, int *result_count) {
