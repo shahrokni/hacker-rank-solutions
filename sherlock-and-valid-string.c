@@ -1,5 +1,6 @@
 /* https://www.hackerrank.com/challenges/sherlock-and-valid-string */
 /* Difficulty Easy */
+/* TODO: REFACTOR */
 
 #include <stdio.h>
 #include <stdlib.h>
