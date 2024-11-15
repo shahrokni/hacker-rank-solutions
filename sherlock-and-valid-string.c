@@ -1,3 +1,6 @@
+/* https://www.hackerrank.com/challenges/sherlock-and-valid-string */
+/* Difficulty Easy */
+
 #include <stdio.h>
 #include <stdlib.h>
 
